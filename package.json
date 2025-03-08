@@ -11,7 +11,7 @@
   "dependencies": {
     "@material-ui/core": "latest",
     "clsx": "latest",
-    "contentful": "^7.13.1",
+    "contentful": "^11.5.4",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
